@@ -8,9 +8,9 @@ const FEATURES = [
 ];
 
 const LANDMARKS = [
-  { icon: '✈️', name: 'Pune Airport', time: '8 min', distance: '3.2 km' },
-  { icon: '🎓', name: 'Symbiosis Law College', time: '6 min', distance: '2.1 km' },
-  { icon: '🚇', name: 'Ramwadi Metro', time: '4 min', distance: '1.2 km' },
+  { icon: '✈️', name: 'Pune Airport', time: '8 min', distance: '1.5 km' },
+  { icon: '🎓', name: 'Symbiosis Law College', time: '6 min', distance: '1 km' },
+  { icon: '🚇', name: 'Ramwadi Metro', time: '4 min', distance: '500 m' },
   { icon: '🏫', name: 'Bishop School Kalyani Nagar', time: '5 min', distance: '1.6 km' },
   { icon: '📍', name: 'Kalyani Nagar – Koregaon Park', time: '5 min', distance: '1.3 km' },
 ];
